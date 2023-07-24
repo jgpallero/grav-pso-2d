@@ -1,2 +1,3 @@
 # grav-pso-2d
-GravPSO2D software
+
+# THIS REPOSITORY STORES AN OUTDATED VERSION OF GRAVPSO2D. PLEASE, VISIT https://bitbucket.org/jgpallero/grav-pso-2d IN ORDER TO GET AN UPDATED VERSION
